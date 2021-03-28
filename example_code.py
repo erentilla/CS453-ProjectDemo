@@ -4,6 +4,8 @@
 
 
 # This funtion applies iterative topological sort on a graph starting from the given node
+dummyvar=11
+#this is a dummy var
 def iterative_topological_sort(graph, start):
     seen = set()    # will be the list of visited nodes
     # stack will hold the 
