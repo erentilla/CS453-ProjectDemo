@@ -1,2 +1,2 @@
 # CS453-ProjectDemo
-This is a sample commit.
+This is an example commit to a new branch.
