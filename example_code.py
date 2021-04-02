@@ -1,6 +1,7 @@
 # This program obtains the class-precedence list for given three example class hierarchies 
 # starting from the given nodes by structing those examples as a graph data structure
 # and applying iterative topologial sort on them starting from a given node
+tempvar=99
 def dummyfunct():
     print("dummy")
 
