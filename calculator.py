@@ -10,7 +10,8 @@ class cal():
         return self.a/self.b
     def sub(self):
         return self.a-self.b
-
+def sayhi():
+    print("hi")
 def add(args):
     sum = 0
     for number in args:
