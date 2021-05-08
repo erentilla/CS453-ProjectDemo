@@ -10,6 +10,8 @@ class cal():
         return self.a/self.b
     def sub(self):
         return self.a-self.b
+def returnone():
+    return 1
 def sayhi():
     print("hi")
 def add(args):
